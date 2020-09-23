@@ -1,0 +1,16 @@
+[History]
+B0=frmreg/frmactivation/cmdrundemo_Click
+B1=frmreg/frmsplash/cmdconnect_Click
+B2=frmreg/frmactivation/cmdreset_Click
+B3=frmreg/frmactivation/cmdregister_Click
+B4=frmreg/frmactivation/cmdexit_Click
+B5=frmreg/frmactivation/Form_Load
+B6=frmreg/frmactivation/CheckValidKey
+B7=frmreg/frmsplash/CheckLabelUSB
+B8=frmreg/frmactivation/TimerDbg_Timer
+B9=frmreg/frmsplash/Form_Load
+B10=frmreg/frmsplash/Form_Initialize
+B11=frmreg/frmsplash/Timer1_Timer
+B12=frmreg/frmsplash/cmdexit_Click
+B13=frmreg/frmsplash/Form_Resize
+B14=frmreg/frmactivation/Form_QueryUnload
