@@ -1,0 +1,15 @@
+[History]
+B0=frmkey/frmKeygen/cmdgen_Click
+B1=frmkey/frmKeygen/cmdexit_Click
+B2=frmkey/frmKeygen/CalcCRC32
+B3=frmkey/frmKeygen/Form_Load
+B4=frmkey/clsregistration/ReverseString
+B5=frmkey/clsregistration/GenerateKey
+B6=frmkey/frmKeygen/FixedKey
+B7=frmkey/frmKeygen/FullVersionKey
+B8=frmkey/frmKeygen/cmbtype_Change
+B9=frmkey/kGen/KeyGen
+B10=frmkey/frmKeygen/Trial30DaysExpiredKey
+B11=frmkey/frmKeygen/Trial60DaysExpiredKey
+B12=frmkey/frmKeygen/cmbexpired_Click
+B13=frmkey/frmKeygen/ValidKey
